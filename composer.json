@@ -11,6 +11,12 @@
             "email": "fridrich.dennis@gmail.com"
         }
     ],
+    repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/H4817/Ares"
+        }
+    ],
     "require": {
         "php": "^5.4|^7.0",
         "beberlei/assert": "^2.4",
